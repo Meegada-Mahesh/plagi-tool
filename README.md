@@ -1,6 +1,13 @@
 # plagi-tool
 This is a plagiarism detection tool used for text, image, video and audio formats written in Golang
 
+Step 1:- 
+Create a Portal which accepts different formats of content
+
+Step 2:-
+Detect for Plagiarism
+
+
 There are four formats for this tool.
 
 1) Text
